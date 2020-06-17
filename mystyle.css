@@ -1,0 +1,33 @@
+body {
+	background-color: #F1FAEE;
+}
+
+/* Global */
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+/* Header */ 
+
+header{
+	background: #457B9D;
+}
+
+header a{
+	color: #F1FAEE;
+	text-decoration: none;
+}
+
+header ul{
+	margin: 0;
+	padding:0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 10px 0 10px ;
+}

@@ -1,2 +1,9 @@
 #github.com/alunhowen.github.io
 Personal Website
+
+Colour Scheme:
+E63946
+F1FAEE
+A8DADC
+457B9D
+1D3557
